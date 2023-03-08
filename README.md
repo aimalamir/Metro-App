@@ -13,4 +13,4 @@ Explanation:
 If the user selects the option for the lowest fare, then the application will display the routes
 which have the lowest fares without keeping distance in mind.
 
-I have priority queues, linked list, graphs and Djisktra's algorithm in this project.
+I have used priority queues, linked list, graphs and Djisktra's algorithm in this project.
